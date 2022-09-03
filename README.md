@@ -7,20 +7,17 @@
 </div>
 
 
-
-
 ### Available Skills
     
    #### Languages
-    <div>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
-    </div>
   
+ 
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
+ 
 
 
-<!--
-**happyhermann/happyhermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ 
  
 Here are some ideas to get you started:
 
