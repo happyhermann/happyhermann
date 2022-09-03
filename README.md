@@ -3,7 +3,7 @@
 <div>
     <a href="https://carrick0708.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/%20-Blog-orange"/></a>
   
-  <img src="https://img.shields.io/badge/carrick035%40gmail.com--green"/>
+  <img src="https://img.shields.io/badge/%20-carrick035%40gmail.com-red"/>
 
 
 
