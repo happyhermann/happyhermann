@@ -18,7 +18,9 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" />   
     <img src="https://img.shields.io/badge/Sass-000000?style=flat-square&logo=sass&logoColor=yellow" />  
-</div>
+    <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/>
+
+ </div>
 
 
 
