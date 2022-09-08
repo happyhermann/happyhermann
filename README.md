@@ -28,7 +28,7 @@
  #### Languages
  <div>
      
-     <img src="https://img.shields.io/badge/-%ED%95%9C%EA%B5%AD%EC%96%B4-green" />
+     한국어 / 영어 
      
 </div>
               
