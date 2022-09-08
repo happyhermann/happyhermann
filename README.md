@@ -26,12 +26,10 @@
  </div>
  
  #### Languages
- <div>
-     
+      
      한국어 / 영어 
      
-</div>
-              
+               
                 
     
     
