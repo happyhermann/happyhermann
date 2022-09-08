@@ -8,6 +8,12 @@
           
 </div>
 
+### Expriences
+
+#### 패스트캠퍼스 : 메가바이트 스쿨 - 프론트 엔드 과정 (2022.04.11 ~ 2022.07.29)
+#### 2022 K-Digital Trainning 해커톤
+ 
+  
 
 ### Available Skills
     
