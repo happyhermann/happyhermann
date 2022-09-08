@@ -1,6 +1,7 @@
 ### 안녕하세요 이치윤입니다 👋
 
 
+<div align="center">
 
 <div>
     <a href="https://carrick0708.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/%20-Blog-orange"/></a>
@@ -35,6 +36,8 @@
       
  한국어 / 영어 
      
+</div>
+
                
                 
     
