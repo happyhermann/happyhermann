@@ -35,7 +35,8 @@
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/reactnative-61DAFB?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-      <img src="https://img.shields.io/badge/redux-4FC08D?style=for-the-badge&logo=redux&logoColor=white">
+    <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue&logoColor=white">
+
 
 
  </div>
