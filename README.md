@@ -44,6 +44,8 @@
     <img src="https://img.shields.io/badge/reactnative-61DAFB?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
     <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue&logoColor=white">
+    <img src="https://img.shields.io/badge/node-4FC08D?style=for-the-badge&logo=node&logoColor=yellow">
+
 <!--      <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
  -->
 
